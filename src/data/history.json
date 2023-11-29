@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Web Intern",
+    "organisation": "Webpal Business Ltd.",
+    "startDate": "Oct, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on react projects",
+      "Helped create UI components and react framework"
+    ],
+    "imageSrc": "history/webpal.png"
+  },
+    {
+      "role": "Prompt Engineering",
+      "organisation": "Danson Solutions",
+      "startDate": "June, 2023",
+      "endDate": "August,2023",
+      "experiences": ["Researched on various AI tools and platforms for creating interacting games.","Designed prompts for image, sound effect and youtube videos."],
+      "imageSrc": "history/danson.png"
+    },
+    {
+      "role": "E-commerce Intern",
+      "organisation": "Infinity Infosys",
+      "startDate": "Feb, 2023",
+      "endDate": "Apr, 2023",
+      "experiences": ["Explore the e-commerce site like Daraz, Gyapu,Bizbazar,etc.","Worked as e-commerce account handler."],
+      "imageSrc": "history/infinity.png"
+    }
+    
+  ]
